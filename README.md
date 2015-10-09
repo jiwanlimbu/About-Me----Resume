@@ -1,6 +1,6 @@
 # About-Me----Resume
-I am a post-grad student at The University of Texas at San Antonio(UTSA). 
-<br /> I come from Nepal. A mountaneous country where less than 40% of people have college education. With hopes, dreams and bit more determination I am fortunate to have higher education in the US.  
+I am a post-grad student at The University of Texas at San Antonio (UTSA). 
+<br /> I come from Nepal. A mountaneous country where less than 40% of people have college education. With hopes, dreams and bit more determination I am fortunate to have pursuing higher education in the US.  
 <br />
 My goal in life is to learn and share the knowledge to make this world a better place. I believe everyone should get the privilege of education. I also believe that science and technology should not be an option for it will make us understand everything, living or dead, around us.  
 <br />
