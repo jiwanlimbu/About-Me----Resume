@@ -82,3 +82,19 @@ My professional goal is to be an expert in Cyber Security and Computing Technolo
 <li><span style="background-color:transparent">Customer Support</span></li></ul>
 </font></span><span style="font-family:verdana,sans-serif;font-size:small;background-color:transparent"><b>Library Circulation Assistant</b>, Wichita State University, Wichita, KS (Jan 2007 - Jan 2007)&nbsp;</span></div>
 <br>
+
+<div>
+<h1><span style="line-height:15px"><font face="verdana, sans-serif" size="4">Education</font></span></h1>
+</div>
+<ul><li><font face="verdana, sans-serif" size="3"><span style="line-height:19.5px">Pursuing Doctor of Philosophy in Electrical Engineering (<i>Computer Security Engineering</i>) at College of Engineering, UTSA | Aug 2013 - Aug 2016 (Expected)&nbsp;</span></font></li></ul>
+<ul><li><font face="verdana, sans-serif" size="3">Master of Science in Computer Engineering (Computer Security), UTSA | Aug 2011 - Aug 2013</font></li></ul>
+<font face="verdana, sans-serif" size="3"><span style="background-color:transparent"><span>&nbsp;&nbsp; &nbsp;<span>&nbsp;&nbsp; &nbsp;</span></span><i>Thesis: <a href="https://drive.google.com/file/d/0Bz-irZ6iEqpJTWZ6OGN5WkstMlk/view?usp=sharing" target="_blank">Securing Implantable Cardioverter Defibrillator Using Smartphones&nbsp;</a></i></span><br>
+</font>
+<ul><li><span style="background-color:transparent"><font face="verdana, sans-serif" size="3">Master of Science in Electrical Engineering, <a href="http://wichita.edu/thisis/" target="_blank">Wichita State University</a> (Computer Networking)&nbsp;, KS, USA | Aug 2006 - Dec 2008</font></span></li></ul>
+<font face="verdana, sans-serif" size="3"><span style="background-color:transparent"><span>&nbsp;&nbsp; &nbsp;<span>&nbsp;&nbsp; &nbsp;</span></span><i>Master Project: <a href="https://drive.google.com/file/d/0Bz-irZ6iEqpJanVwU2xTZTVlUGM/view?usp=sharing" target="_blank">Rate Monotonic Scheduling of a Networked Control System</a>&nbsp;(Pre-<span>&nbsp;&nbsp; &nbsp;<span>&nbsp;&nbsp; &nbsp;<span>&nbsp;&nbsp; &nbsp;<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></span></span>Submission copy)&nbsp;</i></span><br>
+</font>
+<ul><li><font face="verdana, sans-serif" size="3">Bachelor of Engineering in &nbsp;Electronics &amp; Communication Engineering, <a href="http://tribhuvan-university.edu.np/">Tribhuvan University</a>, Nepal. Aug 2000 - Dec 2004</font></li></ul>
+<span><font face="verdana, sans-serif" size="3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<i>Senior Project:&nbsp;Economy&nbsp;Uninterrupted&nbsp;Power Supply</i></font></span>
+<div><font face="verdana, sans-serif" size="3"><i><br>
+</i></font></div>
+<div>
