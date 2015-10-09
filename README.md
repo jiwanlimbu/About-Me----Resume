@@ -6,7 +6,7 @@ My goal in life is to learn and share the knowledge to make this world a better 
 <br />
 My professional goal is to be an expert in Cyber Security and Computing Technologies. I have been researching in computer network and security since 3 years. Within those years I have investigated Medical Devices Security, Mobile Device Security and  IoT. I am currently studying security aspects in Cloud Computing. 
 
-<b><font size="12">Professional Experience</font size></b>
+<b><font size="24">Professional Experience</font size></b>
 Research Assistant at The University of Texas at San Antonio (UTSA), San Antonio, TX | Aug 2013 - Present
 
 Institute for Cyber Security
