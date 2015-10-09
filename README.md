@@ -14,7 +14,7 @@ My professional goal is to be an expert in Cyber Security and Computing Technolo
 </blockquote>
 <div>
 <ul><li><font face="verdana, sans-serif" size="2">Working on an NSF funded research on Attribute Based Access Control (ABAC) in Cloud Computing technology</font></li>
-<li><font face="verdana, sans-serif" size="2">Designing and developing novel schemes for resource sharing, authentication, authorization and risk-mitigation in a distributed system</font></li>
+<li><font face="verdana, sans-serif" size="2">Designing, modeling and developing novel security schemes for resource sharing, authentication, authorization and risk-mitigation in a distributed system</font></li>
 <li><font face="verdana, sans-serif" size="2">Implementation over OpenStack and Ceph storage cloud software</font></li></ul>
 </div>
 <blockquote style="margin:0 0 0 40px;border:none;padding:0px">
