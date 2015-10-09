@@ -5,6 +5,7 @@ I am a post-grad student at The University of Texas at San Antonio(UTSA).
 My goal in life is to learn and share the knowledge to make this world a better place. I believe everyone should get the privilege of education. I also believe that science and technology should not be an option for it will make us understand everything, living or dead, around us.  
 <br />
 My professional goal is to be an expert in Cyber Security and Computing Technologies. I have been researching in computer network and security since 3 years. Within those years I have investigated Medical Devices Security, Mobile Device Security and  IoT. I am currently studying security aspects in Cloud Computing. 
+<p><b>Professional Experience</b></p>
 
 <div><font size="2"><span style="font-family:verdana,sans-serif;background-color:transparent"><b>Research Assistant </b>at&nbsp;The&nbsp;University&nbsp;of Texas at San Antonio (UTSA), San Antonio, TX |&nbsp;</span><span style="font-family:verdana,sans-serif;background-color:transparent">Aug 2013 - Present</span></font></div>
 <div><b style="font-family:verdana,sans-serif;font-size:small;background-color:transparent"><br>
