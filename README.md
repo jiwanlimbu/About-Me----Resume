@@ -6,10 +6,11 @@ My goal in life is to learn and share the knowledge to make this world a better 
 <br />
 My professional goal is to be an expert in Cyber Security and Computing Technologies. I have been researching in computer network and security since 3 years. Within those years I have investigated Medical Devices Security, Mobile Device Security and  IoT. I am currently studying security aspects in Cloud Computing. 
 
-</p><b><font size="24">Professional Experience</font size></b></p>
+</p><b>Professional Experience</b></p>
 Research Assistant at The University of Texas at San Antonio (UTSA), San Antonio, TX | Aug 2013 - Present
 
-Institute for Cyber Security
+<b>Institute for Cyber Security</b>
+<br />
 Working on an NSF funded research on Attribute Based Access Control (ABAC) in Cloud Computing technology
 Designing and developing novel schemes for resource sharing, authentication, authorization and risk-mitigation in a distributed system
 Implementation over OpenStack and Ceph storage cloud software
